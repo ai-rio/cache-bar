@@ -1,0 +1,11 @@
+{
+  "name": "cache-bar",
+  "version": "0.1.0",
+  "description": "A bar above the prompt: prompt-cache warm/cold, and a Master prompt button that rewrites your draft.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "ai-rio"
+  },
+  "license": "MIT",
+  "repository": "https://github.com/ai-rio/cache-bar"
+}

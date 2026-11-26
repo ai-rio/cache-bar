@@ -1,0 +1,14 @@
+{
+  "name": "cache-bar",
+  "description": "Prompt-cache status bar and Master prompt button for Claude Code",
+  "owner": {
+    "name": "ai-rio"
+  },
+  "plugins": [
+    {
+      "name": "cache-bar",
+      "source": "./",
+      "description": "Prompt-cache warm/cold bar and a Master prompt button that rewrites your draft"
+    }
+  ]
+}
